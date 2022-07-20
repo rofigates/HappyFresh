@@ -19,8 +19,10 @@ b. challenge 2
 --------------------------------------------------------
 
 2. QA Test
+
 b. Task 2
 The following is for the stage of opening the qa test task 2 project:
+
 1. open the project from the katalon
 2. then open Object Repository -> API -> select the API file
 
