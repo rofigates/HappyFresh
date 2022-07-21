@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tambah ke troli</name>
+   <tag></tag>
+   <elementGuidId>72300361-d37c-4462-bdda-f2376d93636b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='button-plus-25049']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span._3cQQC</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>78ea1652-b507-40ff-b266-bd4f1afddc0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_3cQQC</value>
+      <webElementGuid>b84eeff6-dddf-4a80-8005-7a77f432cd71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah ke troli</value>
+      <webElementGuid>b6366134-d83e-43bb-a1db-91ff06967c8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;button-plus-25049&quot;)/span[@class=&quot;_3cQQC&quot;]</value>
+      <webElementGuid>8bfc84d0-5cc0-44a5-a3ef-4ffb4c555c1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='button-plus-25049']/span</value>
+      <webElementGuid>2ff2f8cb-038f-45ac-ad46-cb14ccb36533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi produk'])[1]/preceding::span[1]</value>
+      <webElementGuid>828b33a5-189c-4ddd-bf92-176284dd69d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stella'])[1]/preceding::span[1]</value>
+      <webElementGuid>b1e9153d-db49-4a6f-90a9-18d02875315a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambah ke troli']/parent::*</value>
+      <webElementGuid>8ed59aa0-798a-4bf0-a2c8-1cd96e149322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>66931501-f722-4e89-9a1f-c5e0f7a807b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tambah ke troli' or . = 'Tambah ke troli')]</value>
+      <webElementGuid>d241890d-481c-4c2e-b072-5810b568b0f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

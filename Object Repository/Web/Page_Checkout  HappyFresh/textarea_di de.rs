@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_di de</name>
+   <tag></tag>
+   <elementGuidId>17a482d0-9990-4a34-940f-93b492044b00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id='checkout--delivery-notes']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#checkout--delivery-notes</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>74716071-57dc-4bd0-aaba-bafbabc646c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkout--delivery-notes</value>
+      <webElementGuid>becbadd5-95ea-4627-a5d6-f4fabcbe0619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Berikan sedikit informasi untuk membantu Rider mengantarkan pesananmu. Misalnya rumah hijau di ujung jalan</value>
+      <webElementGuid>0e418662-166d-4fd5-acc4-e7173d630148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>di de</value>
+      <webElementGuid>53872456-3cb4-4039-9177-3d58369229b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout--delivery-notes&quot;)</value>
+      <webElementGuid>e133ab1a-a125-40e2-800a-572ec959680c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@id='checkout--delivery-notes']</value>
+      <webElementGuid>5fed03e9-2c43-41d8-8856-1dacc41b1656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div[2]/div/div[3]/div/textarea</value>
+      <webElementGuid>ae6d6590-a912-4e0e-9b69-19b3d84f872a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catatan Pengantaran (optional)'])[1]/following::textarea[1]</value>
+      <webElementGuid>4dad52e1-b579-453c-91de-50a269d4813d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::textarea[1]</value>
+      <webElementGuid>14d9dfcb-bc39-43ed-9375-b3325c93cdb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waktu pengantaran'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>a57a59e5-55ab-4363-ae3e-ea686509f407</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pesan sekarang'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>b7c99b46-c37f-4eef-ad8f-7799ceb18120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='di de']/parent::*</value>
+      <webElementGuid>18a3ade8-04dc-4a77-bb32-801e9d4a3e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>83590655-ad41-4c80-b942-5bd1705deb12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'checkout--delivery-notes' and @placeholder = 'Berikan sedikit informasi untuk membantu Rider mengantarkan pesananmu. Misalnya rumah hijau di ujung jalan' and (text() = 'di de' or . = 'di de')]</value>
+      <webElementGuid>58077a62-2de1-4de7-81d6-0587cea125d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

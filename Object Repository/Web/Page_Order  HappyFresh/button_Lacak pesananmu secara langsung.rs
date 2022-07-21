@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lacak pesananmu secara langsung</name>
+   <tag></tag>
+   <elementGuidId>078d97c8-91e3-4908-93f8-b8baae6a62a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]/div/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button._2h39q</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fa64e4fc-0826-40b0-a0ed-28373cc06313</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_2h39q</value>
+      <webElementGuid>512ae25e-74d8-4863-9f7f-983685af57c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lacak pesananmu secara langsung</value>
+      <webElementGuid>58f025ce-d475-418e-a92c-1d7d898754ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;_1eV3R&quot;]/div[@class=&quot;_32nUR&quot;]/div[@class=&quot;_1T7Z7&quot;]/div[@class=&quot;_1hA2Q&quot;]/button[@class=&quot;_2h39q&quot;]</value>
+      <webElementGuid>db5602f2-d996-462c-af56-c42c362d7364</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/div/div[2]/div/button</value>
+      <webElementGuid>c145e003-a10b-45e2-9db6-f066ae6cddfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Slot Pengantaran'])[1]/following::button[1]</value>
+      <webElementGuid>49bd0b57-524a-4896-9e47-59191a695a72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Besok, 11AM - 12PM'])[1]/following::button[2]</value>
+      <webElementGuid>20961e0e-f75f-4b97-8b87-98fc40038c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info Pesanan'])[1]/preceding::button[1]</value>
+      <webElementGuid>7b29aeaf-569c-452f-9246-eb52836b8f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lacak pesananmu secara langsung']/parent::*</value>
+      <webElementGuid>8bdcb404-24e8-4b10-b2cd-dbeedd96ba79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/button</value>
+      <webElementGuid>0394fd91-2fbe-48d3-a73e-01e597043a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Lacak pesananmu secara langsung' or . = 'Lacak pesananmu secara langsung')]</value>
+      <webElementGuid>0b215ebf-e453-4476-8f1e-c8b934fa1350</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

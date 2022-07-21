@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jadwalkan untuk nanti</name>
+   <tag></tag>
+   <elementGuidId>6ba13007-5d3c-49b9-bab7-be7ab49042f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div[3]/div[2]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ad0b83c5-9075-4433-b894-2b42146fa321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1cLj7</value>
+      <webElementGuid>1ea77f0c-045f-46f9-b295-ff0cbe355c5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jadwalkan untuk nanti</value>
+      <webElementGuid>dd3a0e63-49f1-4324-b563-5c10939d54dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;_1eV3R _vCdaA&quot;]/div[@class=&quot;_1e2I2&quot;]/div[@class=&quot;_3Dwh7&quot;]/div[@class=&quot;_1zDBk&quot;]/div[@class=&quot;_15cOQ&quot;]/div[@class=&quot;_1r6R9&quot;]/div[@class=&quot;_1GJkN&quot;]/div[@class=&quot;_1cLj7&quot;]</value>
+      <webElementGuid>71330f9a-6bd3-4a68-9dd8-0ee439cdbea1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div[3]/div[2]/div/div[2]/div</value>
+      <webElementGuid>ddad6d00-a170-4f44-85f0-fd65761d833c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kami akan segera mulai berbelanja'])[1]/following::div[2]</value>
+      <webElementGuid>665e2be6-ebf2-4dda-a380-30f8852dbfb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pesan sekarang'])[1]/following::div[4]</value>
+      <webElementGuid>3702665a-833e-4b4d-907e-e98dfe797f7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih waktu pengantaran'])[1]/preceding::div[1]</value>
+      <webElementGuid>a57a2ec9-37e5-473c-8d51-b0f378bf6eed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal'])[1]/preceding::div[3]</value>
+      <webElementGuid>0f52ed2e-a21d-48ef-b2bf-58d821609e23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jadwalkan untuk nanti']/parent::*</value>
+      <webElementGuid>5946a56f-5845-4081-a09e-e209a0a01078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div[2]/div/div[2]/div</value>
+      <webElementGuid>79e017a5-d995-41b5-a3db-cd31f9b047c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Jadwalkan untuk nanti' or . = 'Jadwalkan untuk nanti')]</value>
+      <webElementGuid>4839f7d9-447f-433c-a735-955fa88c7cf8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

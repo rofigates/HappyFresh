@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nav_Pesanan Saya</name>
+   <tag></tag>
+   <elementGuidId>56a701d4-eefd-48e2-ad69-83d276f0f41f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/nav</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nav._2-_dh._2trV8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nav</value>
+      <webElementGuid>013ee3eb-117f-4732-ba09-2f92ed5314c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_2-_dh _2trV8</value>
+      <webElementGuid>5527d18a-a549-4f82-a463-5715e96d8951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pesanan Saya</value>
+      <webElementGuid>3606ff16-70d3-42ea-b86e-22e96affeb91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/nav[@class=&quot;_2-_dh _2trV8&quot;]</value>
+      <webElementGuid>a4c2feb2-5d77-4758-87c4-9edcc372061d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/nav</value>
+      <webElementGuid>ab6ef14c-a0cc-4af5-ae21-9a2fa563cb43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda belum pernah membuat pesanan. Mari mulai berbelanja bersama HappyFresh!'])[1]/preceding::nav[1]</value>
+      <webElementGuid>ff0821a9-4a7c-426b-8c3f-3ae43de8b5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav</value>
+      <webElementGuid>dce96279-66a8-44b7-8757-4dd1a17234ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nav[(text() = 'Pesanan Saya' or . = 'Pesanan Saya')]</value>
+      <webElementGuid>817a1d36-2300-4ab2-8a05-db1835c1d1f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

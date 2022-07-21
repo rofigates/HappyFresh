@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Alamat Pengantaran__3j0-K _1AeLR</name>
+   <tag></tag>
+   <elementGuidId>36dab1fd-81e1-4f84-a955-1dd55c862ee7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>jaka</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img._3j0-K._1AeLR</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>fc651ef7-d0f4-45f5-940b-f6a60221523d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/clear_71723.svg</value>
+      <webElementGuid>6f3180cf-e0c8-4e6a-882f-d8a5eef0eb66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>clear delivery address</value>
+      <webElementGuid>18274903-2e3f-4289-a0ba-34b637cbe59e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_3j0-K _1AeLR</value>
+      <webElementGuid>74b16364-d6ab-42af-8296-6b97d7f5217f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;_1eV3R _8EE9l&quot;]/div[@class=&quot;_2tGal&quot;]/div[@class=&quot;_1d9sl&quot;]/div[@class=&quot;_1-1L7&quot;]/figure[2]/button[1]/img[@class=&quot;_3j0-K _1AeLR&quot;]</value>
+      <webElementGuid>4a7bcda7-43a8-4301-9aaa-c3dc9538c54e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div/figure[2]/button/img</value>
+      <webElementGuid>fd496b69-bb2a-4412-993c-a9fba85f29c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='clear delivery address']</value>
+      <webElementGuid>cc8e2746-9915-453f-b694-b9eecd71c8b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//figure[2]/button/img</value>
+      <webElementGuid>5b88a970-a61e-4044-a689-16452173dbc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/clear_71723.svg' and @alt = 'clear delivery address']</value>
+      <webElementGuid>c1e00764-deb8-482b-bfdf-0c2b896b00bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
